@@ -1,0 +1,22 @@
+# NVIDIA 546.30 驱动兼容的 CUDA wheel 源
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+# 正常写包名，pip 会自动去上面的 extra-index 里匹配合适的版本
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+
+# 剩下的包会优先匹配你本地配置的默认清华源
+minio
+langchain-openai
+langgraph
+grandalf
+pymilvus[milvus_lite]
+pymilvus[model]
+# Windows 下 pymilvus 的 milvus_lite extra 会被平台标记跳过，显式补装
+milvus-lite==3.2.1
+sentence-transformers
+neo4j
+pymongo
+mineru[all]
+openai-agents
+langchain-deepseek

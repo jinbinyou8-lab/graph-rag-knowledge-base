@@ -1,0 +1,3452 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a6c9fcfb41cfc997c0f88e35c06f34818e7b53d83d92fa3580257172c1c24ec7.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                519,
+                19,
+                569,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "使用说明书"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                133,
+                613,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "RS-12"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                210,
+                569,
+                238
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编号: 123-1939"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                248,
+                653,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                303,
+                621,
+                338
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/16f1ae918c8905b9e4fc1d0c08fe8a9b55c34d69f4c1191f790bf08571419299.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                519,
+                362,
+                557,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CE"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                902,
+                606,
+                961
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/17a896b47789994e2944e1590940a56fff9a93c68fed9b924cd572f4917cf087.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                673,
+                451,
+                821,
+                894
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "安全手册"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                90,
+                594,
+                119
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为了您的安全，请在使用本仪表之前仔细阅读该手册"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                119,
+                855,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "使用本表时，请勿将输入的测量值超出其所允许的量程范围。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                145,
+                899,
+                171
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/20349cfe756c3c7e92916914d6b5cb1e596f5d70154343e3dcc4cfed3c5fa2d6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>输入量程</td></tr><tr><td>功能</td><td>最大输入</td></tr><tr><td>交/直流电压</td><td>直流/交流电压600V</td></tr><tr><td>直流/交流电压</td><td>直流/交流电压600V, 200Vrms 用于200mV量程</td></tr><tr><td>mA直流</td><td>200mA 250V快速熔断保险丝</td></tr><tr><td>A DC</td><td>10A 250V 快速熔断保险丝(最多每15分钟, 需时30秒)</td></tr><tr><td>电阻,短路测试</td><td>250Vrms, 最多15秒</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                521,
+                186,
+                974,
+                377
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 在测量高压电路时，请严格注意个人及设备的安全防护措施。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                410,
+                914,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 若负极端口（COM）电压超出500V以上接地电压，请勿进行电压测试。"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                434,
+                964,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 若功能开关置于电流，电阻或二极管位置时，请勿将表笔与电路相连接，否则会损坏仪表。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                482,
+                966,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. 进行电阻或二极管测试时，应把电容放电并断开电源。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                529,
+                872,
+                553
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. 打开后盖，更换保险丝或电池之前，请关闭电源并取下表笔。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                556,
+                914,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. 请勿使用仪表，直到电池盖和保险丝盖装好，螺丝拧紧。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                579,
+                887,
+                603
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "安全标识"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                627,
+                596,
+                658
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2ec4f0e7e8b05c73503dc25db1ad0e65b99a06b2dea8d8a9525a1865c75095e0.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                522,
+                661,
+                552,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "表明此操作须参照说明书进行。"
+                    }
+                ]
+            },
+            "bbox": [
+                574,
+                673,
+                769,
+                701
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WARNING 表明此处可能出现危险电压，请避开以免导致死亡或严重伤害。"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                720,
+                966,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CAUTION 表明此处可能出现危险电压，请避开以免导致仪表的损坏。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                766,
+                939,
+                789
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/87ccf38edca64aa36a803d7091a6385340dace221ee3105f93037e3b4285d161.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                524,
+                794,
+                561,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "请勿连接到500VAC或VDC的电路上。"
+                    }
+                ]
+            },
+            "bbox": [
+                574,
+                809,
+                808,
+                837
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9cc6ec399a5591e7939d410fc4f8c64396dd6935ac92a4830442fd8a69ff71de.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                524,
+                842,
+                547,
+                885
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "表明此端口可能出现危险电压。"
+                    }
+                ]
+            },
+            "bbox": [
+                574,
+                856,
+                769,
+                883
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f5c6db12e9569ee13bd78fd38747397dd535fbb72326e87b43deaa240e8ec70b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                524,
+                894,
+                552,
+                930
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "双绝缘保护。"
+                    }
+                ]
+            },
+            "bbox": [
+                574,
+                899,
+                655,
+                928
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "R5 PRO"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                7,
+                554,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表/中文"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                31,
+                976,
+                54
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "28/09/2017 Version No. 001"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                947,
+                677,
+                968
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                949,
+                974,
+                968
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "控制与端口"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                21,
+                90,
+                95,
+                116
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.LCD液晶显示"
+                    }
+                ]
+            },
+            "bbox": [
+                21,
+                138,
+                122,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.功能选择转盘"
+                    }
+                ]
+            },
+            "bbox": [
+                23,
+                164,
+                122,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3.10A端口"
+                    }
+                ]
+            },
+            "bbox": [
+                23,
+                188,
+                92,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4.COM端口"
+                    }
+                ]
+            },
+            "bbox": [
+                23,
+                212,
+                100,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.正极端口"
+                    }
+                ]
+            },
+            "bbox": [
+                23,
+                236,
+                94,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.数据保持按键"
+                    }
+                ]
+            },
+            "bbox": [
+                23,
+                260,
+                122,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7.背光按键"
+                    }
+                ]
+            },
+            "bbox": [
+                23,
+                284,
+                95,
+                310
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d6946861c4592804bd8d7e75b58029565712d4dc58f855e374bf0fcf370c91dd.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                154,
+                119,
+                300,
+                400
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能符号指示"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                23,
+                429,
+                110,
+                453
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "•))) 蜂鸣指示"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                465,
+                152,
+                491
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f5470dcb3ab08b06212db41f4b4b4728bcd0d46a0bafcae45dbee4b840a4ec65.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                28,
+                489,
+                48,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "二极管测试指示"
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                491,
+                194,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "µ micro (电流范围)"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                515,
+                203,
+                539
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "m milli ( 电压/电流范围)"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                539,
+                231,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "k kilo (电阻范围)"
+                    }
+                ]
+            },
+            "bbox": [
+                31,
+                563,
+                189,
+                587
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VDC 直流电压"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                587,
+                154,
+                610
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VAC 交流电流"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                610,
+                154,
+                634
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ADC 直流电流"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                634,
+                154,
+                658
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BAT 电池电量不足指示"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                658,
+                210,
+                684
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "规格"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                90,
+                552,
+                116
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/07416334ca76fd47af4cb0a27b06e964a096a197f53e0bc35e12b4066877e93c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注意: 精确度规格由两种因素组成。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "● (% reading) –测量电路的精确度。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "● (+ digits) –数位转换器条码的精确度。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注意: 精确度在65°F 至 83°F (18°C 至 28°C)，湿度低于75%RH时得出。"
+                    }
+                ],
+                "html": "<table><tr><td>功能</td><td>量程</td><td>分辨率</td><td>精确度</td></tr><tr><td rowspan=\"5\">直流电压</td><td>200mV</td><td>0.1mV</td><td rowspan=\"3\">± (0.5% reading + 2 digits)</td></tr><tr><td>2000mV</td><td>1mV</td></tr><tr><td>20V</td><td>0.01V</td></tr><tr><td>200V</td><td>0.1V</td><td rowspan=\"2\">± (0.8% reading + 2 digits)</td></tr><tr><td>600V</td><td>1V</td></tr><tr><td rowspan=\"2\">交流电压</td><td>200V</td><td>0.1V</td><td rowspan=\"2\">± (1.2% reading + 10 digits 50/60Hz)</td></tr><tr><td>600V</td><td>1V</td></tr><tr><td rowspan=\"4\">直流电流</td><td>2000μA</td><td>1μA</td><td rowspan=\"2\">± (1.0% reading + 2 digits)</td></tr><tr><td>20mA</td><td>10μA</td></tr><tr><td>200mA</td><td>100μA</td><td>± (1.2% reading + 2 digits)</td></tr><tr><td>10A</td><td>10mA</td><td>± (2.0% reading + 2 digits)</td></tr><tr><td rowspan=\"5\">电阻</td><td>200Ω</td><td>0.1Ω</td><td rowspan=\"4\">± (0.8% reading + 2 digits)</td></tr><tr><td>2000Ω</td><td>1Ω</td></tr><tr><td>20kΩ</td><td>0.01kΩ</td></tr><tr><td>200kΩ</td><td>0.1kΩ</td></tr><tr><td>2000kΩ</td><td>1kΩ</td><td>± (1.0% reading + 2 digits)</td></tr><tr><td rowspan=\"2\">电池</td><td>9V</td><td>10mV</td><td rowspan=\"2\">± (1.0% reading + 2 digits)</td></tr><tr><td>1.5V</td><td>1mV</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                521,
+                133,
+                927,
+                720
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表/中文"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                31,
+                124,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RS PRO"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                7,
+                475,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "R5 PRO"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                7,
+                554,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表/中文"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                28,
+                976,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                21,
+                949,
+                31,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "28/09/2017 Version No. 001"
+                    }
+                ]
+            },
+            "bbox": [
+                332,
+                947,
+                487,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "28/09/2017 Version No. 001"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                947,
+                677,
+                968
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                949,
+                976,
+                968
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "技术指标说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                18,
+                90,
+                131,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "二极管测试 测试电流最大值1mA, 开路电压 2.8V DC典型值"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                140,
+                445,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "短路蜂鸣测试 若电阻小于30时产生蜂鸣"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                164,
+                315,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电池测试电流 9V (6mA)；1.5V (100mA)"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                188,
+                324,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输入阻抗 >1MΩ"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                210,
+                206,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "交流电压频宽 45Hz～450Hz"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                233,
+                252,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DCA电压跌路测试 200mV"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                255,
+                210,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "显示 3 ½ 数位，2000位液晶显示，1.1”数位"
+                    }
+                ]
+            },
+            "bbox": [
+                21,
+                279,
+                405,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "超量程提示 以“1”表示"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                300,
+                240,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "极性 自动(正极无显示);负极显示(-)"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                324,
+                339,
+                348
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测量率 正常情况下每秒2次"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                348,
+                280,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "低电池提示 电池电压不足时，显示BAT符号"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                369,
+                349,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电池 一粒9V (NEDA 1604) 电池保险丝 mA, µA 量程;0.2A/250V 快速熔断保险丝，A 档量程10A/250V快速熔断保险丝"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                393,
+                326,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                20,
+                415,
+                477,
+                460
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "操作环境 32°F～122°F (0°C～50°C)"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                460,
+                322,
+                486
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "储存温度 -4°F～140°F (-20°C～60°C)"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                484,
+                332,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "相对湿度 <70% 操作, <80% 储存"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                508,
+                310,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "室内使用,最高海拔 7000英尺(2000米)"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                529,
+                277,
+                553
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "重量 255g"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                553,
+                196,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "尺寸 150mm x 70mm x 48mm"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                575,
+                327,
+                599
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "安全认证 室内使用，符合过电压类别I"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                596,
+                334,
+                622
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "污染级别 2"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                622,
+                173,
+                646
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电池安装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                20,
+                665,
+                97,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告: 为防触电, 打开电池后盖前后，请勿操作仪表并把表笔与电源断开。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                692,
+                467,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 把表笔与仪表断开。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                718,
+                159,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 用螺丝刀拧开电池后盖上的螺母。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                742,
+                240,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 正确安装电池，正负极应一致。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                766,
+                228,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 盖上电池后盖并拧紧螺丝钉。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                789,
+                213,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告: 为防触电,在电池后盖安装和固定之前，请勿操作仪表。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                837,
+                393,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意: 若仪表出现工作不正常，请检测保险丝和电池是否完好以及是否放在正确的位置。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                863,
+                468,
+                911
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "操作指导"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                90,
+                596,
+                121
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "数值保持按键HOLD"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                121,
+                653,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "保持键允许仪表固定测量值以供参考："
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                143,
+                761,
+                169
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 按下“HOLD”键保持读数， 同时出现“HOLD”字符"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                167,
+                882,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 再次按下“DATA HOLD”键 切换至正常操作"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                193,
+                826,
+                219
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "背光灯键（BACKLIGHT）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                238,
+                689,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 按下背光灯键开启背光灯。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                264,
+                702,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 再次按背光灯键关闭背光灯。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                288,
+                715,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告：小心触电，高压电流十分危险，应小心操作。"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                336,
+                842,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 为了节省电池损耗，使用后请将旋钮调至“OFF”档。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                362,
+                870,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 若测量过程中显示屏出现“OL”，表明测量值超出所选档位，应改选更高档。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                384,
+                971,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意:在某些低交直流电压档位内，若表笔与被测物断开，显示屏将出现任意不稳定数值。该现象由高输入灵敏度所致。若接通电路，可读到稳定准确的数值。"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                455,
+                968,
+                532
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "测量非接触交流电压"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                553,
+                653,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告: 为了防止电击，请在使用前，确保正确使用此非接触交流电压测电笔。"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                579,
+                971,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 让其探头靠近或插入火线的输出插座孔时。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                627,
+                806,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 如果火线带有220V交流电输出，指示灯就会被点亮。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                651,
+                868,
+                677
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意: 如果是零线和火线缠绕在一起时，此时测试要将两线分开，来进行火线与零线的区分。"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                699,
+                973,
+                749
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意: 此非接触交流电压测电笔设计为高度灵敏探测.当遇到静电或其它能带电体时，可能指示灯也会亮起或瞬间闪烁，这属于正常现象。"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                747,
+                976,
+                799
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "直流电压测量"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                818,
+                611,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意：正打开或关闭电源时不要进行此项测量，瞬间的强大电压将损坏仪表。"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                844,
+                964,
+                894
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表/中文"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                28,
+                124,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RS PRO"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                7,
+                475,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "R5 PRO"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                7,
+                554,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表/中文"
+                    }
+                ]
+            },
+            "bbox": [
+                872,
+                28,
+                976,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                21,
+                949,
+                31,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "28/09/2017 Version No. 001"
+                    }
+                ]
+            },
+            "bbox": [
+                331,
+                947,
+                487,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "28/09/2017 Version No. 001"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                947,
+                677,
+                968
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                949,
+                976,
+                968
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 将功能转盘置于V DC的位置。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                90,
+                220,
+                116
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 将黑色表笔插入负极COM端口，红色表笔插入正极V端口。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                114,
+                400,
+                138
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 将表笔尖端接触被测物,确保极性正确(红色连正极,黑色连负极)。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                138,
+                428,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 显示屏上读取电压值。显示屏显示了精确的小数点，数值。若极性颠倒，数值前将显示负号。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                159,
+                472,
+                207
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "交流电压测量"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                20,
+                231,
+                110,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告：谨防触电。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                255,
+                127,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若表笔长度不够不能接触到某些240V用具插座的带电部位，则可能出现插座有电而读到的数值却为0的情况。因此若无电压显示，应检查表笔是否接触到了插座内的金属接口。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                279,
+                336,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意：正打开或关闭电源时不要进行此项测量，瞬间的强大电压将损坏仪表。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                393,
+                327,
+                443
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/84c37b209829d15820d5bbe76bbc98e1bf9eddc58bd9c983fc710cb2747d341b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                354,
+                236,
+                473,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 将功能转盘置于V AC的位置。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                532,
+                218,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 将黑色表笔插入负极COM端口，红色表笔插入正极V端口。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                556,
+                400,
+                582
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 将表笔尖端接触被测物。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                579,
+                186,
+                603
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 显示屏上读取电压值。显示屏显示了精确的小数点，数值和(AC,V等)符号。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                603,
+                475,
+                649
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在显示屏上读取电压数据。不断重调功能转盘至低交流电压档位获得高分辨率读数。读数由精确的小数点和数值表示。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                649,
+                473,
+                699
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "直流电流测量"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                90,
+                610,
+                116
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意：在10A情况下测量时间不能超过30秒，否则将可能损坏仪表或表笔。"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                116,
+                968,
+                143
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eb330b9b1b79716fc9feacd30808b4ed86c395ebaab24c29dec65d68060e10be.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                702,
+                159,
+                791,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 将黑色表笔插入负极COM端口。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                393,
+                729,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 测量直流200mA 以下的电流,将功能转盘置于最高DC mA档位，并将红色表笔插入mA端口。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                417,
+                968,
+                463
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 测量直流10A时,将功能转盘置于10A档位，并将红色表笔(10A)端口。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                460,
+                947,
+                486
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 断开被测电路的电源。在你想测量电流的位置打开电路绝缘层。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                486,
+                914,
+                510
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. 将黑色表笔接触被测电路的负极，红色表笔接触被测电路正极。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                508,
+                914,
+                534
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. 接通电源。"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                532,
+                600,
+                556
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. 在显示屏上读取读数。进行mA DC测量时,不断重调功能转盘至低mA DC档位获得高分辨率读数.读数由精确的小数点和数值表示。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                553,
+                976,
+                603
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/820246ff8d6f448489eb36a1297e028a8ca8ff17100aecb8aa38d685b069fc19.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                695,
+                658,
+                800,
+                906
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                949,
+                976,
+                968
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表/中文"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                31,
+                124,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RS PRO"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                7,
+                475,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "R5 PRO"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                7,
+                554,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表/中文"
+                    }
+                ]
+            },
+            "bbox": [
+                872,
+                28,
+                976,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                21,
+                949,
+                31,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "28/09/2017 Version No. 001"
+                    }
+                ]
+            },
+            "bbox": [
+                331,
+                947,
+                487,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "28/09/2017 Version No. 001"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                947,
+                678,
+                968
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电阻测量"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                20,
+                90,
+                82,
+                114
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告: 为防触电,测量前应断开电源，把所有电容放电，取出电池和拔掉电线。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                116,
+                473,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 将功能转盘置于最高电阻Ω位置"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                183,
+                238,
+                207
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 将黑色表笔插入负极COM端口，红色表笔插入正极Ω端口"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                207,
+                396,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 把表笔接触被测电路或元件。测试时最好断开电路的一端，以使剩余的电路不会干扰被测电阻数值。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                231,
+                477,
+                276
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 读取显示屏上读数，然后将功能转盘调至最低电阻Ω档位，通常大于实际电阻或预测电阻.读数由精确的小数点和数值表示。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                276,
+                475,
+                326
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3dce15efe5689c2d8c904dfbbb653eef71ce00b270bd08d47e3b474af2fb68a8.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                198,
+                334,
+                295,
+                568
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "短路蜂鸣测试"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                18,
+                601,
+                110,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告：请不要在接通电源的情况下进行在线短路蜂鸣测试以免触电。"
+                    }
+                ]
+            },
+            "bbox": [
+                18,
+                622,
+                438,
+                649
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 将功能键转盘置于 位置。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                649,
+                220,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 将黑色表笔插入负极COM端口，红色表笔插入正极Ω端口。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                670,
+                401,
+                696
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 把表笔与被测物体相接触。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                694,
+                200,
+                718
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 当电阻小于30时Ω，仪表会发出蜂鸣.如果是开路，显示屏将显示“1”字符。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                715,
+                465,
+                766
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二极管测试"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                20,
+                785,
+                95,
+                809
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 将黑色表笔插入负极COM 端口，红色表笔插入正极V端口。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                809,
+                403,
+                832
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 将功能转盘置于 位置。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                832,
+                213,
+                856
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 把表笔与二极管相接触，正向电压将显示400 至 700mV.反向电压显示“ 1”符号.短路时将显示接近 0V，开路时会在两种极性上显示“1”符号。"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                854,
+                475,
+                904
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电池测试"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                90,
+                581,
+                116
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 将黑色表笔插入负极COM端口，红色表笔插入正极V 端口。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                114,
+                902,
+                138
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 使用功能选择键，选择1.5V 或 9V 电池档位。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                138,
+                818,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 将红色表笔接触电池正极，将黑色表笔接触电池负极。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                159,
+                868,
+                186
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 在显示屏上读取数值。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                183,
+                673,
+                207
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/245f1e7b566bd2cc04cff03745a12107cd9a9dc38f41ebe529e5b2da7e26c8df.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>良好</td><td>较弱</td><td>坏的</td></tr><tr><td>9V 电池:</td><td>&gt;8.2V</td><td>7.2 至 8.2V</td><td>&lt;7.2V</td></tr><tr><td>1.5V 电池:</td><td>&gt;1.35V</td><td>1.22 至 1.35V</td><td>&lt;1.22V</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                524,
+                221,
+                974,
+                307
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "更换电池"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                322,
+                581,
+                348
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告：为防触电，打开电池后盖前后，请勿操作仪表并把表笔与电源断开。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                346,
+                968,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 当电池电压不足时，显示屏上会出现“BAT”符号，此时应更换电池。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                369,
+                952,
+                396
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 按下面的步骤安装电池。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                393,
+                682,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 妥善处理废电池。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                417,
+                640,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告: 为防触电,在电池后盖安装和固定之前，请勿操作仪表。"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                463,
+                884,
+                491
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "更换保险丝"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                519,
+                510,
+                596,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告:为防触电，在打开保险丝门之前，请把表笔和电源断开。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                536,
+                890,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 把表笔与仪表及其它被测物断开。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                560,
+                737,
+                584
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 用螺丝刀拧开保险丝门上的螺母。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                584,
+                737,
+                606
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 轻轻取出废旧的保险丝。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                606,
+                682,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 装入新的保险丝。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                627,
+                640,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. 使用正确型号与数值的保险丝(0.2A/250V) 快速熔断保险丝用于200mA的量程，10A/250V 快速熔断保险丝用于10A的量程。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                651,
+                968,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. 盖回后盖，拧紧螺钉。"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                696,
+                668,
+                723
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "警告: 为防触电，在保险盖盖紧前请勿操作仪表。"
+                    }
+                ]
+            },
+            "bbox": [
+                517,
+                742,
+                811,
+                770
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表/中文"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                31,
+                124,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RS PRO"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                7,
+                475,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "R5 PRO"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                7,
+                554,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "数字万用表/中文"
+                    }
+                ]
+            },
+            "bbox": [
+                872,
+                28,
+                976,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                20,
+                949,
+                31,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "28/09/2017 Version No. 00"
+                    }
+                ]
+            },
+            "bbox": [
+                331,
+                947,
+                487,
+                968
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                966,
+                949,
+                976,
+                968
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "28/09/2017 Version No. 001"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                947,
+                677,
+                968
+            ]
+        }
+    ]
+]
