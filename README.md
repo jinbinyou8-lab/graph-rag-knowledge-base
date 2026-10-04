@@ -1,9 +1,9 @@
-# 掌柜智库 Shopkeeper Brain
+# Graph RAG 知识库问答系统
 
 > 基于 **LangGraph** + 多模态大模型的智能知识库管理与查询系统。
-> 把一堆 PDF / Markdown / 图片说明书丢进去，自动切分、向量化、建知识图谱，然后用混合检索 + 流式问答把答案取回来。
+> 把一堆 PDF / Markdown / 图片丢进去，自动切分、向量化、建知识图谱，然后用混合检索 + 流式问答把答案取回来。
 
-一个面向「店铺经营知识」场景的 RAG 系统：导入侧负责把非结构化文档变成可检索的知识资产，查询侧负责把口语化的问题变成有依据的答案。
+一个面向「产品说明书 / 操作手册」类专业文档的 RAG 系统：导入侧负责把非结构化文档变成可检索的知识资产，查询侧负责把口语化的问题变成有依据的答案。
 
 ---
 
@@ -76,7 +76,7 @@
 两个流程各自是一个**自包含单元**：自己的 `api / core / front / services / schema / nodes`，只共享 `utils/`。
 
 ```
-shopkeeper-brain/
+graph-rag-knowledge-base/
 ├─ knowledge/
 │  ├─ processor/
 │  │  ├─ import_process/            # 导入流程（:8000）
@@ -121,8 +121,8 @@ shopkeeper-brain/
 ### 0. 克隆仓库
 
 ```bash
-git clone https://github.com/jinbinyou8-lab/shopkeeper-brain.git
-cd shopkeeper-brain
+git clone https://github.com/jinbinyou8-lab/graph-rag-knowledge-base.git
+cd graph-rag-knowledge-base
 ```
 
 ### 1. 依赖服务
@@ -178,7 +178,7 @@ start_query_8001.bat      →  查询服务
 **或者手动**（注意必须在**项目根目录**下启动，且要让 `knowledge` 包可被导入）：
 
 ```bash
-cd shopkeeper_brain
+cd graph-rag-knowledge-base
 
 # Linux/macOS
 PYTHONPATH=$(pwd) python -m uvicorn \

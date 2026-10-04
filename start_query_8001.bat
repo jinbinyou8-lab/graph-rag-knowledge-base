@@ -7,7 +7,7 @@ set "HTTPS_PROXY="
 set "http_proxy="
 set "https_proxy="
 set "ALL_PROXY="
-title shopkeeper-brain  QUERY service  :8001
+title graph-rag-knowledge-base  QUERY service  :8001
 echo ============================================================
 echo  Query service  ^-^>  http://127.0.0.1:8001
 echo  Chat page      ^-^>  http://127.0.0.1:8001/

@@ -7,7 +7,7 @@ set "HTTPS_PROXY="
 set "http_proxy="
 set "https_proxy="
 set "ALL_PROXY="
-title shopkeeper-brain  IMPORT service  :8000
+title graph-rag-knowledge-base  IMPORT service  :8000
 echo ============================================================
 echo  Import service ^-^>  http://127.0.0.1:8000
 echo  Import page    ^-^>  http://127.0.0.1:8000/import
