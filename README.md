@@ -76,7 +76,7 @@
 两个流程各自是一个**自包含单元**：自己的 `api / core / front / services / schema / nodes`，只共享 `utils/`。
 
 ```
-shopkeeper_brain/
+shopkeeper-brain/
 ├─ knowledge/
 │  ├─ processor/
 │  │  ├─ import_process/            # 导入流程（:8000）
@@ -117,6 +117,13 @@ shopkeeper_brain/
 ---
 
 ## 快速开始
+
+### 0. 克隆仓库
+
+```bash
+git clone https://github.com/jinbinyou8-lab/shopkeeper-brain.git
+cd shopkeeper-brain
+```
 
 ### 1. 依赖服务
 
